@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Movies now</string>
+    <string name="text_favorites">favorite</string>
+    <string name="text_schedules">Popular</string>
+    <string name="text_music">Media</string>
+</resources>

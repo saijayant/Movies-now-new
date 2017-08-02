@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/3a8f779e97cf400feda3c4a321260cfc430d9aa6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/pre-dexed/debug/classes_1e2aa586a5b7857175205023ffc29952947ea29a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/3db822ef37c52d22b8627754e20f1a9db9960ad9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/pre-dexed/debug/classes_bea0a81f520245c08c6e6b9676f19d5c03b86fee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/d1c17b69afdcf5df72b6be686e640224eb262b23/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/pre-dexed/debug/classes_b6e9b5cc93f87e06b0d9a8d7bc614042e90bb165.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/708cf61733607a465dd0f7a45f9df49c5cf47c8b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/pre-dexed/debug/classes_f6ac3cb3e9f70f85c555ed79d77e94778029cec7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.6.0/48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8/butterknife-annotations-8.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8">
+        <dex dex="/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.6.0_5256aaa8007d9787cee8cf3b8be6922ac794a594.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/ee4a7274f63af6f1b93e1fa625e7bc7df16a4dae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/pre-dexed/debug/classes_778d234ec7ad9ba4a28595df5816e921dec88a14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/b940f70183fbd8de9bb073bc4c9410ba150662b4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/pre-dexed/debug/classes_adf9dc6c1514c737f3d5a521a59bae327e941eb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/1d0223d87caf2d19a3888deecce185e7d6f6242d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/pre-dexed/debug/classes_647fdc9859b2398132a2d82951b587f1144399c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/b180a49c57db4a9b0e2a5a37d75197890ac915ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/pre-dexed/debug/classes_2f08a7b9646feac04370bdb91e7f4b6512a2770e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/pre-dexed/debug/okio-1.13.0_7d444dc2d6f7aa78b8feb820f213114b7995f751.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/pre-dexed/debug/retrofit-2.3.0_2985f7aeb1019c72e39e0045b9ab09085d8830c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/553e7d68dcf98a1e10229d9b73b485121fe4ea28/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="be587097e648eabfb7f9eca23ab03369894e2d5d">
+        <dex dex="/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/pre-dexed/debug/classes_786db4e1bc9b65949e36b225ea1e4c4197b6f8e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/1170efff3fb6d991b11b5857c3abf9c31e8b61e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/pre-dexed/debug/classes_5f73143db5e2e2a7a70a1017248e9dbff5b91242.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/pre-dexed/debug/converter-gson-2.3.0_44194fc14326906469eed6c582245c1ef85db37f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/12339bf7c58f24ab56f86e0434762893c1d565e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/pre-dexed/debug/classes_9070fbe67442e660fba11d5320a0b8ffed724588.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/pre-dexed/debug/okhttp-3.8.0_68bdcfffdccea964064c0c587113f60c648e12df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/d5aac4882fe23e1bbb65268cc08787b78975b80a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/pre-dexed/debug/classes_860feaa28c0440e8a7a720ee0368b247cd470f75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_c1076fd4cdbabebde885036e18a11fd5da984042.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/7346c704098f65edd3c85e8ac802a15ce92bc91a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/pre-dexed/debug/classes_3a0e8383ab36dee53b2b315d37c61b609f66df2b.jar" />
+    </item>
+
+</items>
