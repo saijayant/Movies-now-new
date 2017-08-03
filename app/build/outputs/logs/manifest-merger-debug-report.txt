@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml:5:22-76
+application
+ADDED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml:6:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/macbookpro/.android/build-cache/09d309360697c42bb0acb8ca13a14d4eaf83de74/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.2.0] /Users/macbookpro/.android/build-cache/3a8f779e97cf400feda3c4a321260cfc430d9aa6/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/macbookpro/.android/build-cache/b940f70183fbd8de9bb073bc4c9410ba150662b4/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/macbookpro/.android/build-cache/d1c17b69afdcf5df72b6be686e640224eb262b23/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/macbookpro/.android/build-cache/708cf61733607a465dd0f7a45f9df49c5cf47c8b/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] /Users/macbookpro/.android/build-cache/3db822ef37c52d22b8627754e20f1a9db9960ad9/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/macbookpro/.android/build-cache/1d0223d87caf2d19a3888deecce185e7d6f6242d/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/macbookpro/.android/build-cache/d5aac4882fe23e1bbb65268cc08787b78975b80a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/macbookpro/.android/build-cache/ee4a7274f63af6f1b93e1fa625e7bc7df16a4dae/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/macbookpro/.android/build-cache/12339bf7c58f24ab56f86e0434762893c1d565e2/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/macbookpro/.android/build-cache/7346c704098f65edd3c85e8ac802a15ce92bc91a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/macbookpro/.android/build-cache/b180a49c57db4a9b0e2a5a37d75197890ac915ff/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml:11:9-35
+	android:roundIcon
+		ADDED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml:10:9-54
+	android:allowBackup
+		ADDED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.example.jayant_sai.moviesnow.MainActivity
+ADDED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/macbookpro/.android/build-cache/09d309360697c42bb0acb8ca13a14d4eaf83de74/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.2.0] /Users/macbookpro/.android/build-cache/3a8f779e97cf400feda3c4a321260cfc430d9aa6/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/macbookpro/.android/build-cache/b940f70183fbd8de9bb073bc4c9410ba150662b4/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/macbookpro/.android/build-cache/d1c17b69afdcf5df72b6be686e640224eb262b23/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/macbookpro/.android/build-cache/708cf61733607a465dd0f7a45f9df49c5cf47c8b/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/macbookpro/.android/build-cache/1170efff3fb6d991b11b5857c3abf9c31e8b61e6/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /Users/macbookpro/.android/build-cache/3db822ef37c52d22b8627754e20f1a9db9960ad9/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] /Users/macbookpro/.android/build-cache/1d0223d87caf2d19a3888deecce185e7d6f6242d/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/macbookpro/.android/build-cache/d5aac4882fe23e1bbb65268cc08787b78975b80a/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/macbookpro/.android/build-cache/ee4a7274f63af6f1b93e1fa625e7bc7df16a4dae/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/macbookpro/.android/build-cache/12339bf7c58f24ab56f86e0434762893c1d565e2/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/macbookpro/.android/build-cache/7346c704098f65edd3c85e8ac802a15ce92bc91a/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.jakewharton:butterknife:8.6.0] /Users/macbookpro/.android/build-cache/553e7d68dcf98a1e10229d9b73b485121fe4ea28/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-compat:25.2.0] /Users/macbookpro/.android/build-cache/b180a49c57db4a9b0e2a5a37d75197890ac915ff/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /Users/macbookpro/.android/build-cache/3a8f779e97cf400feda3c4a321260cfc430d9aa6/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/src/main/AndroidManifest.xml

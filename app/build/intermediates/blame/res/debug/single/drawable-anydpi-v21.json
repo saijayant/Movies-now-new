@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_child_care_black_24dp.xml",
+        "source": "/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_child_care_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_crop_original_black_24dp.xml",
+        "source": "/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_crop_original_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/macbookpro/.android/build-cache/3a8f779e97cf400feda3c4a321260cfc430d9aa6/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_perm_media_black_24dp.xml",
+        "source": "/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_perm_media_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_favorite_border_white_24dp.xml",
+        "source": "/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_favorite_border_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/macbookpro/.android/build-cache/3a8f779e97cf400feda3c4a321260cfc430d9aa6/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_block_black_24dp.xml",
+        "source": "/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_block_black_24dp.xml"
+    }
+]

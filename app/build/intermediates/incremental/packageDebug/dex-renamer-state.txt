@@ -1,0 +1,4 @@
+#Tue Aug 01 16:01:20 IST 2017
+base.0=/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

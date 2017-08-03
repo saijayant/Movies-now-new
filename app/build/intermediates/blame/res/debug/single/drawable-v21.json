@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/macbookpro/.android/build-cache/b940f70183fbd8de9bb073bc4c9410ba150662b4/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/macbookpro/.android/build-cache/3a8f779e97cf400feda3c4a321260cfc430d9aa6/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/macbookpro/.android/build-cache/3a8f779e97cf400feda3c4a321260cfc430d9aa6/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/macbookpro/.android/build-cache/b940f70183fbd8de9bb073bc4c9410ba150662b4/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/macbookpro/.android/build-cache/3a8f779e97cf400feda3c4a321260cfc430d9aa6/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/macbookpro/.android/build-cache/3a8f779e97cf400feda3c4a321260cfc430d9aa6/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/macbookpro/.android/build-cache/b940f70183fbd8de9bb073bc4c9410ba150662b4/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Desktop/Jayant_sai/Moviesnow/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/macbookpro/.android/build-cache/b940f70183fbd8de9bb073bc4c9410ba150662b4/output/res/drawable-v21/notification_action_background.xml"
+    }
+]
